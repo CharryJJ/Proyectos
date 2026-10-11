@@ -27,4 +27,12 @@ Repositorio principal con proyectos académicos, desarrollos personales y práct
 
 ---
 
+### 🚀 [GalaxGadgets](https://galaxgadgets.github.io/GalaxGadgets/)
+
+**Plan en desarrollo** - Tienda de ecommerce de gadgets y tecnología. Proyecto de desarrollo de un marketplace moderno con funcionalidades completas de comercio electrónico.
+
+[**Visitar proyecto**](https://galaxgadgets.github.io/GalaxGadgets/)
+
+---
+
 [Ver los 8 repositorios en GitHub](https://github.com/CharryJJ?tab=repositories)
